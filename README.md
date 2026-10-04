@@ -4,8 +4,6 @@
 
 ## 立即遊玩
 
-此 GitHub 儲存庫提供可編輯的原始專案與素材；不包含已編譯執行檔、Godot 快取或 export templates。可用 Godot 開啟專案，或依下方指令自行匯出各平台版本。
-
 - Windows：解壓縮 Windows 版，雙擊 `MoleGarden.exe`。不需安裝 Godot。
 - Linux：解壓縮 Linux 版，執行 `chmod +x MoleGarden.x86_64` 後啟動。
 - 網頁版：不可直接雙擊 HTML。於 web 資料夾執行 `python3 -m http.server 8000`，再開啟 `http://localhost:8000/MoleGarden.html`。
