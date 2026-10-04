@@ -1,0 +1,6 @@
+Mole Garden original game code, procedural pixel assets, synthesized sounds and project documentation
+Copyright (c) 2026. Provided for unrestricted personal and commercial use, modification and redistribution, without warranty.
+
+Bundled Noto font: SIL Open Font License 1.1. See FONT_LICENSE.txt beside the executable, or assets/FONT_LICENSE.txt in the source project.
+Godot Engine: MIT License. See https://godotengine.org/license/ for the engine license and third-party component notices.
+The AI-generated cover illustration is included as an original project illustration; no exclusive copyright claim is made for generated material.
